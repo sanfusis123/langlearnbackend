@@ -342,7 +342,3 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 - OpenAI for GPT models
 - LangChain for AI orchestration
 - All contributors and testers
-
-## 📞 Support
-
-For support, email support@yourdomain.com or join our Discord community.
